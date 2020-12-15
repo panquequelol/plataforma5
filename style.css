@@ -10,7 +10,7 @@ header{
     top: 0;
     padding: 20px 0px;
     z-index: 1;
-    background-color: #363543;
+    background-image: linear-gradient(to right,#434343, #000000);
     color: white;
 }
 .container{
@@ -26,15 +26,14 @@ header{
     margin: 10px;
     border-radius: 20%;
     background-color: #dee9ee;
-    color: #5d54c1;
 }
 .modulo button{
     border: none;
     height: 100%;
     width: 100%;
     border-radius: 20%;
-    background-color: #98ce94;
-    color: white;
+    background-image: linear-gradient(to right, #c33764, #1d2671);
+    color: #ffffff;
     font-size: larger;
     cursor: pointer;
     outline: none;
